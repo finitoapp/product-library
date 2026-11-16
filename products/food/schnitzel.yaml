@@ -13,4 +13,4 @@ vat:
   SK: 1900
 image:
   subject: "a golden breaded pork schnitzel with a lemon wedge and creamy potato salad on a white plate"
-  status: missing
+  status: generated

@@ -23,7 +23,8 @@ Adding a product: create `products/<category>/<id>.yaml` (copy a neighbour),
 run `bun run check`, then generate its picture:
 
 ```sh
-OPENAI_API_KEY=... bun run images:generate <id>
+bun run images:generate <id>      # through Codex CLI (`codex login`)
+# or: OPENAI_API_KEY=... bun run images:generate --backend openai <id>
 bun run images:review   # approve at http://localhost:4321
 ```
 

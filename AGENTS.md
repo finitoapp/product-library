@@ -57,7 +57,11 @@ are published. The workflow for a batch, suited to subagents working in
 parallel on separate product files:
 
 1. Write or refine `image.subject` following `style/image-style.md`.
-2. `bun run images:generate <ids>` (needs `OPENAI_API_KEY`).
+2. `bun run images:generate <ids>`. The default backend runs `codex exec`
+   per picture, drawing with Codex's built-in image generation under the
+   `codex login` ChatGPT session (no key; Codex's logs land in `.tmp/`);
+   `--backend openai` calls the Images API with `OPENAI_API_KEY` instead.
+   Either way the result is resized to a 1024 px WebP master.
 3. A person approves or rejects each in `bun run images:review`. A rejected
    picture is deleted and goes back to `missing`; refine the subject first.
 
