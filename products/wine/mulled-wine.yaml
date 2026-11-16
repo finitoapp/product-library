@@ -1,0 +1,16 @@
+id: mulled-wine
+category: wine
+names:
+  cs: "Svařené víno"
+  sk: "Varené víno"
+  en: "Mulled wine"
+synonyms:
+  cs: ["svařák", "svarak", "svařáček"]
+  sk: ["varene vino", "varak"]
+related: [hot-chocolate, apple-strudel]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "hot mulled red wine in a clear glass mug with an orange slice, a cinnamon stick and star anise"
+  status: missing

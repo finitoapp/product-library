@@ -1,0 +1,16 @@
+id: vodka
+category: spirits
+names:
+  cs: "Vodka 4 cl"
+  sk: "Vodka 4 cl"
+  en: "Vodka 4 cl"
+synonyms:
+  cs: ["votka", "panák"]
+  sk: ["vodka"]
+related: [tonic, rum]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a small chilled shot glass of clear vodka"
+  status: missing

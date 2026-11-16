@@ -1,0 +1,16 @@
+id: doppio
+category: coffee
+names:
+  cs: "Doppio"
+  sk: "Doppio"
+  en: "Doppio"
+synonyms:
+  cs: ["dvojité espresso", "double"]
+  sk: ["dvojite espresso"]
+related: [espresso, ristretto, americano]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a double espresso with thick crema in a white ceramic cup slightly larger than an espresso cup, on a saucer"
+  status: missing

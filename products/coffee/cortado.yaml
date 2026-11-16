@@ -1,0 +1,16 @@
+id: cortado
+category: coffee
+names:
+  cs: "Cortado"
+  sk: "Cortado"
+  en: "Cortado"
+synonyms:
+  cs: ["kortado"]
+  sk: ["kortado"]
+related: [flat-white, espresso-macchiato, espresso]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a cortado, espresso with an equal part of warm milk, in a small clear tumbler glass on a saucer"
+  status: missing

@@ -1,0 +1,16 @@
+id: cheese-board
+category: snacks
+names:
+  cs: "Sýrový talíř"
+  sk: "Syrový tanier"
+  en: "Cheese board"
+synonyms:
+  cs: ["sýry", "syrove prkenko", "plato"]
+  sk: ["syry", "syrova misa"]
+related: [red-wine, white-wine, olives]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a wooden board with a selection of sliced cheeses, grapes and crackers"
+  status: missing

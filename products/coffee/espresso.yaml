@@ -1,0 +1,16 @@
+id: espresso
+category: coffee
+names:
+  cs: "Espresso"
+  sk: "Espresso"
+  en: "Espresso"
+synonyms:
+  cs: ["presso", "kafe", "káva", "esspreso", "expreso"]
+  sk: ["presso", "kava", "kafe"]
+related: [cappuccino, flat-white, americano, cafe-latte, doppio]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a single espresso with golden crema in a small white ceramic cup on a saucer"
+  status: missing

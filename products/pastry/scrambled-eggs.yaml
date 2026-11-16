@@ -1,0 +1,16 @@
+id: scrambled-eggs
+category: pastry
+names:
+  cs: "Míchaná vejce"
+  sk: "Praženica"
+  en: "Scrambled eggs"
+synonyms:
+  cs: ["vajíčka", "míchaná vajíčka", "vejce"]
+  sk: ["vajicka", "praženica"]
+related: [avocado-toast, orange-juice, cafe-latte]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "creamy scrambled eggs with chives and a slice of toasted sourdough bread on a white plate"
+  status: missing

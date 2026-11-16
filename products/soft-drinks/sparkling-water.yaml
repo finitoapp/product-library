@@ -1,0 +1,16 @@
+id: sparkling-water
+category: soft-drinks
+names:
+  cs: "Perlivá voda"
+  sk: "Sýtená voda"
+  en: "Sparkling water"
+synonyms:
+  cs: ["minerálka", "perliva voda", "sodovka"]
+  sk: ["mineralka", "sytena voda"]
+related: [still-water, lemonade, tonic]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a clear glass of sparkling water with visible bubbles and a slice of lime"
+  status: missing

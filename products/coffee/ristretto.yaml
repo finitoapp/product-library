@@ -1,0 +1,15 @@
+id: ristretto
+category: coffee
+names:
+  cs: "Ristretto"
+  sk: "Ristretto"
+  en: "Ristretto"
+synonyms:
+  cs: ["risreto"]
+related: [espresso, doppio, cortado]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a very short ristretto, a small dark sip of coffee with crema at the bottom of a small white cup on a saucer"
+  status: missing

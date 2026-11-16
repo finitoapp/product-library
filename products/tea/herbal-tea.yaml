@@ -1,0 +1,16 @@
+id: herbal-tea
+category: tea
+names:
+  cs: "Bylinný čaj"
+  sk: "Bylinkový čaj"
+  en: "Herbal tea"
+synonyms:
+  cs: ["bylinkový čaj", "heřmánek", "bylinky"]
+  sk: ["bylinny caj"]
+related: [fresh-mint-tea, fruit-tea, black-tea]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a cup of light golden herbal tea in a clear glass cup on a saucer with a few dried chamomile flowers beside it"
+  status: missing

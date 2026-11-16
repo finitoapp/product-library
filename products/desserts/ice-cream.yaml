@@ -1,0 +1,16 @@
+id: ice-cream
+category: desserts
+names:
+  cs: "Zmrzlina (kopeček)"
+  sk: "Zmrzlina (kopček)"
+  en: "Ice cream (scoop)"
+synonyms:
+  cs: ["zmrzka", "kopeček", "zmrzlina"]
+  sk: ["zmrzlina", "kopcek"]
+related: [apple-strudel, brownie]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "two scoops of vanilla ice cream in a small clear glass bowl"
+  status: missing

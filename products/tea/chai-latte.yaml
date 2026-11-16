@@ -1,0 +1,16 @@
+id: chai-latte
+category: tea
+names:
+  cs: "Chai latte"
+  sk: "Chai latte"
+  en: "Chai latte"
+synonyms:
+  cs: ["čaj latte", "chai", "čajové latte"]
+  sk: ["chai"]
+related: [matcha-latte, cafe-latte]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a chai latte with milk foam sprinkled with cinnamon in a large white ceramic cup on a saucer"
+  status: missing

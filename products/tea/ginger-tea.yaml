@@ -1,0 +1,16 @@
+id: ginger-tea
+category: tea
+names:
+  cs: "Zázvorový čaj"
+  sk: "Zázvorový čaj"
+  en: "Ginger tea"
+synonyms:
+  cs: ["zázvor", "zazvor", "zazvorak"]
+  sk: ["zazvor"]
+related: [fresh-mint-tea, herbal-tea]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "ginger tea in a tall clear glass with fresh ginger slices and a lemon wedge inside"
+  status: missing

@@ -1,0 +1,16 @@
+id: brownie
+category: desserts
+names:
+  cs: "Brownie"
+  sk: "Brownie"
+  en: "Brownie"
+synonyms:
+  cs: ["brownies", "čokoládový řez", "brauni"]
+  sk: ["brownies"]
+related: [cheesecake, espresso, ice-cream]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a square fudgy chocolate brownie with a crackled top on a small white plate"
+  status: missing

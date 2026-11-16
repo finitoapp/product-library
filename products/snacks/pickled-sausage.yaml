@@ -1,0 +1,16 @@
+id: pickled-sausage
+category: snacks
+names:
+  cs: "Utopenec"
+  sk: "Utopenec"
+  en: "Pickled sausage"
+synonyms:
+  cs: ["utopenci", "nakládaný buřt"]
+  sk: ["utopenec"]
+related: [draft-lager-large, plum-brandy]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a pickled sausage with onion rings and chili in a small glass bowl with a slice of rye bread"
+  status: missing

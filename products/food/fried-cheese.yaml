@@ -1,0 +1,16 @@
+id: fried-cheese
+category: food
+names:
+  cs: "Smažený sýr s hranolky"
+  sk: "Vyprážaný syr s hranolkami"
+  en: "Fried cheese with fries"
+synonyms:
+  cs: ["smažák", "smazeny syr", "smaženej sýr"]
+  sk: ["vyprazany syr"]
+related: [fries, draft-lager-large, schnitzel]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a slice of golden breaded fried cheese with french fries and a small bowl of tartar sauce on a white plate"
+  status: missing

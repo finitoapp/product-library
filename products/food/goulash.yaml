@@ -1,0 +1,16 @@
+id: goulash
+category: food
+names:
+  cs: "Hovězí guláš"
+  sk: "Hovädzí guláš"
+  en: "Beef goulash"
+synonyms:
+  cs: ["guláš", "gulas", "s knedlíkem"]
+  sk: ["gulas"]
+related: [draft-lager-large, soup-of-the-day]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "Czech beef goulash with sliced bread dumplings and fresh onion rings on a white plate"
+  status: missing

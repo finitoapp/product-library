@@ -1,0 +1,16 @@
+id: tonic
+category: soft-drinks
+names:
+  cs: "Tonic"
+  sk: "Tonik"
+  en: "Tonic water"
+synonyms:
+  cs: ["tonik", "toník"]
+  sk: ["tonic"]
+related: [gin-tonic, sparkling-water]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a tall glass of clear tonic water with bubbles, ice and a slice of lime"
+  status: missing

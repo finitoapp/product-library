@@ -1,0 +1,16 @@
+id: peanuts
+category: snacks
+names:
+  cs: "Arašídy"
+  sk: "Arašidy"
+  en: "Peanuts"
+synonyms:
+  cs: ["burské oříšky", "oříšky", "arasidy"]
+  sk: ["arasidy", "oriesky"]
+related: [draft-lager-large, chips]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a small white bowl of salted roasted peanuts"
+  status: missing

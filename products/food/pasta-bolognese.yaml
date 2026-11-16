@@ -1,0 +1,16 @@
+id: pasta-bolognese
+category: food
+names:
+  cs: "Špagety bolognese"
+  sk: "Špagety bolognese"
+  en: "Spaghetti bolognese"
+synonyms:
+  cs: ["boloňské špagety", "spagety", "těstoviny"]
+  sk: ["spagety", "cestoviny"]
+related: [red-wine, caesar-salad]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a plate of spaghetti bolognese topped with grated parmesan and a basil leaf"
+  status: missing

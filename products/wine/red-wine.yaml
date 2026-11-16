@@ -1,0 +1,16 @@
+id: red-wine
+category: wine
+names:
+  cs: "Červené víno 0,2 l"
+  sk: "Červené víno 0,2 l"
+  en: "Red wine 0.2 l"
+synonyms:
+  cs: ["červené", "cervene vino", "víno"]
+  sk: ["cervene vino", "vino"]
+related: [white-wine, cheese-board, olives]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a stemmed wine glass of deep ruby red wine"
+  status: missing

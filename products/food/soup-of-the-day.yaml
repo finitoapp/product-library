@@ -1,0 +1,16 @@
+id: soup-of-the-day
+category: food
+names:
+  cs: "Polévka dne"
+  sk: "Polievka dňa"
+  en: "Soup of the day"
+synonyms:
+  cs: ["polévka", "polevka", "polívka"]
+  sk: ["polievka"]
+related: [daily-menu, goulash]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a white bowl of creamy vegetable soup garnished with herbs and croutons"
+  status: missing

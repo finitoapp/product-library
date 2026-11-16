@@ -1,0 +1,16 @@
+id: iced-latte
+category: coffee
+names:
+  cs: "Ledové latte"
+  sk: "Ľadové latte"
+  en: "Iced latte"
+synonyms:
+  cs: ["iced latte", "ledová káva", "ice latte"]
+  sk: ["iced latte", "ladova kava"]
+related: [cafe-latte, iced-tea, lemonade]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "an iced latte in a tall clear glass with ice cubes, milk swirling into espresso"
+  status: missing

@@ -1,0 +1,16 @@
+id: rose-wine
+category: wine
+names:
+  cs: "Růžové víno 0,2 l"
+  sk: "Ružové víno 0,2 l"
+  en: "Rosé wine 0.2 l"
+synonyms:
+  cs: ["rosé", "ruzove vino"]
+  sk: ["rose", "ruzove vino"]
+related: [white-wine, spritz]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a stemmed wine glass of pale pink rosé wine"
+  status: missing

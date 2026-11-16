@@ -1,0 +1,16 @@
+id: cappuccino
+category: coffee
+names:
+  cs: "Cappuccino"
+  sk: "Cappuccino"
+  en: "Cappuccino"
+synonyms:
+  cs: ["kapučíno", "capuccino", "kapucino", "cappucino"]
+  sk: ["kapucino", "capuccino"]
+related: [cafe-latte, flat-white, espresso, croissant]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a cappuccino with a smooth milk foam cap and simple latte art in a wide white ceramic cup on a saucer"
+  status: missing

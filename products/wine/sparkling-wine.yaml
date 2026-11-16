@@ -1,0 +1,16 @@
+id: sparkling-wine
+category: wine
+names:
+  cs: "Prosecco 0,1 l"
+  sk: "Prosecco 0,1 l"
+  en: "Prosecco 0.1 l"
+synonyms:
+  cs: ["sekt", "šumivé víno", "proseco", "bublinky"]
+  sk: ["sekt", "sumive vino"]
+related: [spritz, white-wine]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a flute glass of sparkling prosecco with fine rising bubbles"
+  status: missing

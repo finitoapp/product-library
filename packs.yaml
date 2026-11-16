@@ -1,0 +1,74 @@
+# Starter packs offered during onboarding. The library carries no prices:
+# the merchant types one for every product they keep.
+- id: cafe
+  names:
+    cs: "Kavárna"
+    sk: "Kaviareň"
+    en: "Café"
+  products:
+    - espresso
+    - doppio
+    - americano
+    - cappuccino
+    - flat-white
+    - cafe-latte
+    - latte-macchiato
+    - hot-chocolate
+    - black-tea
+    - herbal-tea
+    - still-water
+    - sparkling-water
+    - lemonade
+    - orange-juice
+    - croissant
+    - pain-au-chocolat
+    - cheesecake
+    - brownie
+- id: bistro
+  names:
+    cs: "Bistro"
+    sk: "Bistro"
+    en: "Bistro"
+  products:
+    - soup-of-the-day
+    - daily-menu
+    - goulash
+    - schnitzel
+    - burger
+    - fries
+    - caesar-salad
+    - chicken-wrap
+    - espresso
+    - cappuccino
+    - still-water
+    - cola
+    - lemonade
+    - draft-lager-large
+    - non-alcoholic-beer
+    - apple-strudel
+- id: bar
+  names:
+    cs: "Bar"
+    sk: "Bar"
+    en: "Bar"
+  products:
+    - draft-lager-large
+    - draft-lager-small
+    - non-alcoholic-beer
+    - radler
+    - white-wine
+    - red-wine
+    - sparkling-wine
+    - spritz
+    - gin-tonic
+    - rum
+    - vodka
+    - plum-brandy
+    - cola
+    - tonic
+    - sparkling-water
+    - fried-cheese
+    - pickled-sausage
+    - peanuts
+    - chips
+    - nachos

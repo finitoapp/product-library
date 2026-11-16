@@ -1,0 +1,16 @@
+id: fruit-tea
+category: tea
+names:
+  cs: "Ovocný čaj"
+  sk: "Ovocný čaj"
+  en: "Fruit tea"
+synonyms:
+  cs: ["ovocny caj"]
+  sk: ["ovocny caj"]
+related: [herbal-tea, black-tea]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a cup of deep red fruit tea in a clear glass cup on a saucer"
+  status: missing

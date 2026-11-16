@@ -1,0 +1,16 @@
+id: matcha-latte
+category: tea
+names:
+  cs: "Matcha latte"
+  sk: "Matcha latte"
+  en: "Matcha latte"
+synonyms:
+  cs: ["matcha", "maca", "mača"]
+  sk: ["matcha"]
+related: [chai-latte, green-tea, iced-latte]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a vivid green matcha latte with milk foam in a large white ceramic cup on a saucer"
+  status: missing

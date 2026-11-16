@@ -1,0 +1,16 @@
+id: fresh-mint-tea
+category: tea
+names:
+  cs: "Čaj z čerstvé máty"
+  sk: "Čaj z čerstvej mäty"
+  en: "Fresh mint tea"
+synonyms:
+  cs: ["mátový čaj", "máta", "mata"]
+  sk: ["matovy caj", "mata"]
+related: [herbal-tea, ginger-tea]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "fresh mint tea in a tall clear glass with a bunch of fresh mint leaves inside"
+  status: missing

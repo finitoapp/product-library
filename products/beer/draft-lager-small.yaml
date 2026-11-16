@@ -1,0 +1,16 @@
+id: draft-lager-small
+category: beer
+names:
+  cs: "Točené pivo 0,3 l"
+  sk: "Čapované pivo 0,3 l"
+  en: "Draught lager 0.3 l"
+synonyms:
+  cs: ["malé pivo", "malé", "točené malé"]
+  sk: ["male pivo"]
+related: [draft-lager-large, radler]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a small 0.3-litre glass of golden lager with a thick white foam head"
+  status: missing

@@ -1,0 +1,16 @@
+id: still-water
+category: soft-drinks
+names:
+  cs: "Neperlivá voda"
+  sk: "Nesýtená voda"
+  en: "Still water"
+synonyms:
+  cs: ["voda", "neperliva voda", "kohoutková"]
+  sk: ["voda", "nesytena voda"]
+related: [sparkling-water, lemonade]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a clear glass of still water with a slice of lemon"
+  status: missing

@@ -1,0 +1,16 @@
+id: non-alcoholic-beer
+category: beer
+names:
+  cs: "Nealkoholické pivo"
+  sk: "Nealkoholické pivo"
+  en: "Non-alcoholic beer"
+synonyms:
+  cs: ["nealko pivo", "nealko", "birell"]
+  sk: ["nealko pivo", "nealko"]
+related: [draft-lager-large, radler]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a glass of golden non-alcoholic lager with a white foam head"
+  status: missing

@@ -1,0 +1,16 @@
+id: granola-yogurt
+category: pastry
+names:
+  cs: "Jogurt s granolou"
+  sk: "Jogurt s granolou"
+  en: "Yogurt with granola"
+synonyms:
+  cs: ["granola", "jogurt", "müsli", "musli"]
+  sk: ["granola", "jogurt", "musli"]
+related: [croissant, orange-juice]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a glass bowl of white yogurt topped with granola, fresh berries and a drizzle of honey"
+  status: missing

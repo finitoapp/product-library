@@ -1,0 +1,16 @@
+id: spritz
+category: wine
+names:
+  cs: "Spritz"
+  sk: "Spritz"
+  en: "Spritz"
+synonyms:
+  cs: ["aperol", "aperol spritz", "sprits", "hugo"]
+  sk: ["aperol", "spric"]
+related: [sparkling-wine, olives, gin-tonic]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "an orange spritz cocktail in a large stemmed wine glass with ice and an orange slice, no logo"
+  status: missing

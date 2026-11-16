@@ -1,0 +1,16 @@
+id: cafe-latte
+category: coffee
+names:
+  cs: "Caffè latte"
+  sk: "Caffè latte"
+  en: "Caffè latte"
+synonyms:
+  cs: ["latté", "kafe latte", "late"]
+  sk: ["latte", "late"]
+related: [cappuccino, latte-macchiato, iced-latte, flat-white]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a caffè latte with milk foam and latte art in a large white ceramic cup on a saucer"
+  status: missing

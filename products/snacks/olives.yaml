@@ -1,0 +1,16 @@
+id: olives
+category: snacks
+names:
+  cs: "Olivy"
+  sk: "Olivy"
+  en: "Olives"
+synonyms:
+  cs: ["olivy"]
+  sk: ["olivy"]
+related: [spritz, red-wine, cheese-board]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a small white bowl of mixed green and black olives"
+  status: missing

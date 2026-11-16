@@ -1,0 +1,16 @@
+id: herbal-liqueur
+category: spirits
+names:
+  cs: "Bylinný likér 4 cl"
+  sk: "Bylinný likér 4 cl"
+  en: "Herbal liqueur 4 cl"
+synonyms:
+  cs: ["bylinkový likér", "bylinná", "fernet"]
+  sk: ["bylinny liker"]
+related: [plum-brandy, tonic]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a small shot glass of amber herbal liqueur with a sprig of dried herbs beside it, no bottle"
+  status: missing

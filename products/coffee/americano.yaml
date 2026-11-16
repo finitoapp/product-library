@@ -1,0 +1,16 @@
+id: americano
+category: coffee
+names:
+  cs: "Americano"
+  sk: "Americano"
+  en: "Americano"
+synonyms:
+  cs: ["amerikano", "presso s vodou"]
+  sk: ["amerikano"]
+related: [espresso, cafe-latte, flat-white]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "an americano, black coffee with a thin crema in a large white ceramic cup on a saucer"
+  status: missing

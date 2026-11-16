@@ -1,0 +1,16 @@
+id: white-wine
+category: wine
+names:
+  cs: "Bílé víno 0,2 l"
+  sk: "Biele víno 0,2 l"
+  en: "White wine 0.2 l"
+synonyms:
+  cs: ["víno", "bílé", "bile vino", "sklenka vína"]
+  sk: ["vino", "biele vino"]
+related: [red-wine, rose-wine, cheese-board, sparkling-wine]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a stemmed wine glass of pale golden white wine"
+  status: missing

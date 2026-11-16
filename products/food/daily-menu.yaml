@@ -1,0 +1,16 @@
+id: daily-menu
+category: food
+names:
+  cs: "Denní menu"
+  sk: "Denné menu"
+  en: "Daily menu"
+synonyms:
+  cs: ["menu", "polední menu", "oběd"]
+  sk: ["menu", "obed"]
+related: [soup-of-the-day, lemonade]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a lunch plate of roast chicken with potatoes and vegetables next to a small bowl of soup"
+  status: missing

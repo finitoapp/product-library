@@ -1,0 +1,16 @@
+id: hot-chocolate
+category: tea
+names:
+  cs: "Horká čokoláda"
+  sk: "Horúca čokoláda"
+  en: "Hot chocolate"
+synonyms:
+  cs: ["čokoláda", "horka cokolada", "kakao"]
+  sk: ["cokolada", "kakao"]
+related: [mocha, cheesecake, cafe-latte]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a thick hot chocolate in a white ceramic cup on a saucer"
+  status: missing

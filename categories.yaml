@@ -1,0 +1,52 @@
+# Categories a library product belongs to; the app offers the name as the
+# catalog item's category (an existing one of that name, or a new one).
+- id: coffee
+  names:
+    cs: "Káva"
+    sk: "Káva"
+    en: "Coffee"
+- id: tea
+  names:
+    cs: "Čaj a horké nápoje"
+    sk: "Čaj a teplé nápoje"
+    en: "Tea and hot drinks"
+- id: soft-drinks
+  names:
+    cs: "Nealko"
+    sk: "Nealko"
+    en: "Soft drinks"
+- id: beer
+  names:
+    cs: "Pivo"
+    sk: "Pivo"
+    en: "Beer"
+- id: wine
+  names:
+    cs: "Víno"
+    sk: "Víno"
+    en: "Wine"
+- id: spirits
+  names:
+    cs: "Lihoviny"
+    sk: "Destiláty"
+    en: "Spirits"
+- id: pastry
+  names:
+    cs: "Snídaně a pečivo"
+    sk: "Raňajky a pečivo"
+    en: "Breakfast and pastry"
+- id: desserts
+  names:
+    cs: "Dezerty"
+    sk: "Dezerty"
+    en: "Desserts"
+- id: food
+  names:
+    cs: "Jídla"
+    sk: "Jedlá"
+    en: "Meals"
+- id: snacks
+  names:
+    cs: "K pivu"
+    sk: "K pivu"
+    en: "Bar snacks"

@@ -1,0 +1,16 @@
+id: burger
+category: food
+names:
+  cs: "Hovězí burger"
+  sk: "Hovädzí burger"
+  en: "Beef burger"
+synonyms:
+  cs: ["burgr", "hamburger", "hamburgr"]
+  sk: ["hamburger"]
+related: [fries, cola, draft-lager-large]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a beef burger in a glossy brioche bun with cheddar, lettuce and tomato on a white plate"
+  status: missing

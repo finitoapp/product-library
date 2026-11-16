@@ -1,0 +1,16 @@
+id: apple-juice
+category: soft-drinks
+names:
+  cs: "Jablečný džus"
+  sk: "Jablkový džús"
+  en: "Apple juice"
+synonyms:
+  cs: ["jablecny dzus", "mošt"]
+  sk: ["jablkovy dzus", "must"]
+related: [orange-juice, lemonade]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a glass of golden apple juice with a small green apple beside it"
+  status: missing

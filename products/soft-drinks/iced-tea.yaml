@@ -1,0 +1,16 @@
+id: iced-tea
+category: soft-drinks
+names:
+  cs: "Ledový čaj"
+  sk: "Ľadový čaj"
+  en: "Iced tea"
+synonyms:
+  cs: ["ice tea", "ledovy caj"]
+  sk: ["ice tea", "ladovy caj"]
+related: [lemonade, iced-latte]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "homemade iced tea in a tall glass with ice cubes, a lemon slice and a mint sprig"
+  status: missing

@@ -1,0 +1,16 @@
+id: fries
+category: food
+names:
+  cs: "Hranolky"
+  sk: "Hranolky"
+  en: "French fries"
+synonyms:
+  cs: ["hranolky", "fritky", "pommes"]
+  sk: ["hranolky"]
+related: [burger, fried-cheese, cola]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a portion of golden french fries in a small white bowl"
+  status: missing

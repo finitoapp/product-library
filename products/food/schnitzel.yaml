@@ -1,0 +1,16 @@
+id: schnitzel
+category: food
+names:
+  cs: "Řízek s bramborovým salátem"
+  sk: "Rezeň so zemiakovým šalátom"
+  en: "Schnitzel with potato salad"
+synonyms:
+  cs: ["řízek", "rizek", "smažák", "vepřový řízek"]
+  sk: ["rezen"]
+related: [draft-lager-large, fried-cheese]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a golden breaded pork schnitzel with a lemon wedge and creamy potato salad on a white plate"
+  status: missing

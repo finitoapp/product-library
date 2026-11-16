@@ -1,0 +1,16 @@
+id: avocado-toast
+category: pastry
+names:
+  cs: "Avokádový toast"
+  sk: "Avokádový toast"
+  en: "Avocado toast"
+synonyms:
+  cs: ["avokádo", "avokado toast", "avo toast"]
+  sk: ["avokado"]
+related: [scrambled-eggs, flat-white]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a slice of toasted sourdough topped with smashed avocado, a poached egg and chili flakes on a white plate"
+  status: missing

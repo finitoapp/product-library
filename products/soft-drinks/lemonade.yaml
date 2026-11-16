@@ -1,0 +1,16 @@
+id: lemonade
+category: soft-drinks
+names:
+  cs: "Domácí limonáda"
+  sk: "Domáca limonáda"
+  en: "Homemade lemonade"
+synonyms:
+  cs: ["limonáda", "limonada", "limča"]
+  sk: ["limonada"]
+related: [iced-tea, still-water, cola]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "homemade lemonade in a tall glass with ice, lemon slices and fresh mint"
+  status: missing

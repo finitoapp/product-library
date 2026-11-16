@@ -1,0 +1,16 @@
+id: ham-cheese-toast
+category: pastry
+names:
+  cs: "Toast se šunkou a sýrem"
+  sk: "Toast so šunkou a syrom"
+  en: "Ham and cheese toast"
+synonyms:
+  cs: ["toast", "šunkový toast", "sýrový toast"]
+  sk: ["toast"]
+related: [orange-juice, scrambled-eggs, cappuccino]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a toasted ham and cheese sandwich cut diagonally in half with melted cheese, on a white plate"
+  status: missing

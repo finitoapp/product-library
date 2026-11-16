@@ -1,0 +1,16 @@
+id: latte-macchiato
+category: coffee
+names:
+  cs: "Latte macchiato"
+  sk: "Latte macchiato"
+  en: "Latte macchiato"
+synonyms:
+  cs: ["latte machiato", "late makiato"]
+  sk: ["latte machiato"]
+related: [cafe-latte, cappuccino, iced-latte]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a latte macchiato in a tall clear glass on a saucer showing distinct layers of milk, espresso and white foam"
+  status: missing

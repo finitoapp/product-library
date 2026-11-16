@@ -1,0 +1,16 @@
+id: plum-brandy
+category: spirits
+names:
+  cs: "Slivovice 4 cl"
+  sk: "Slivovica 4 cl"
+  en: "Plum brandy 4 cl"
+synonyms:
+  cs: ["slivovice", "pálenka", "slivovica"]
+  sk: ["slivovica", "palenka"]
+related: [herbal-liqueur, pickled-sausage]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a small clear shot glass of plum brandy with a couple of fresh plums beside it"
+  status: missing

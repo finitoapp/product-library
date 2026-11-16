@@ -1,0 +1,16 @@
+id: whisky
+category: spirits
+names:
+  cs: "Whisky 4 cl"
+  sk: "Whisky 4 cl"
+  en: "Whisky 4 cl"
+synonyms:
+  cs: ["whiskey", "viski"]
+  sk: ["whiskey"]
+related: [rum, cheese-board]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a heavy tumbler with a measure of amber whisky and one large ice cube"
+  status: missing

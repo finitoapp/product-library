@@ -1,0 +1,16 @@
+id: nachos
+category: snacks
+names:
+  cs: "Nachos"
+  sk: "Nachos"
+  en: "Nachos"
+synonyms:
+  cs: ["načos", "tortilla chipsy"]
+  sk: ["nacos"]
+related: [draft-lager-large, cola]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a plate of tortilla nachos with melted cheese, salsa and jalapeños"
+  status: missing

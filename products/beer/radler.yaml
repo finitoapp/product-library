@@ -1,0 +1,16 @@
+id: radler
+category: beer
+names:
+  cs: "Radler"
+  sk: "Radler"
+  en: "Radler"
+synonyms:
+  cs: ["řezané pivo s limonádou", "citronové pivo"]
+  sk: ["radler"]
+related: [draft-lager-small, non-alcoholic-beer]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a glass of cloudy pale radler with a light foam head and a lemon slice on the rim"
+  status: missing

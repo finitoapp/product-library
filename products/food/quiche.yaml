@@ -1,0 +1,16 @@
+id: quiche
+category: food
+names:
+  cs: "Quiche"
+  sk: "Quiche"
+  en: "Quiche"
+synonyms:
+  cs: ["kiš", "slaný koláč", "quiche lorraine"]
+  sk: ["kis", "slany kolac"]
+related: [caesar-salad, white-wine]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a slice of quiche lorraine with a golden crust on a white plate with a few salad leaves"
+  status: missing

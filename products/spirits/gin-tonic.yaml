@@ -1,0 +1,16 @@
+id: gin-tonic
+category: spirits
+names:
+  cs: "Gin tonic"
+  sk: "Gin tonic"
+  en: "Gin and tonic"
+synonyms:
+  cs: ["džin tonik", "gin a tonik", "g&t", "gintonic"]
+  sk: ["gin tonik"]
+related: [tonic, spritz, olives]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a gin and tonic in a large balloon glass with ice, a slice of cucumber and juniper berries"
+  status: missing

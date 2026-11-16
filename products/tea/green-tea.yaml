@@ -1,0 +1,16 @@
+id: green-tea
+category: tea
+names:
+  cs: "Zelený čaj"
+  sk: "Zelený čaj"
+  en: "Green tea"
+synonyms:
+  cs: ["zeleny caj"]
+  sk: ["zeleny caj"]
+related: [black-tea, herbal-tea, matcha-latte]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a cup of pale green-gold green tea in a clear glass cup on a saucer"
+  status: missing
