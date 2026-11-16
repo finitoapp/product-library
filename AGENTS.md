@@ -73,7 +73,7 @@ picture so the set stays consistent.
 
 CalVer `YY.M.MICRO` in `package.json`, written into the file's `version`.
 Merging to `main` deploys production; every PR gets a Vercel preview URL the
-apps can be pointed at (`VITE_PRODUCT_LIBRARY_BASE_URL`).
+apps can be pointed at (Finito: `EXPO_PUBLIC_PRODUCT_LIBRARY_BASE_URL`; previews sit behind Vercel login, so only the production host serves the apps).
 
 ## TypeScript
 
