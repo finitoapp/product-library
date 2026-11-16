@@ -62,7 +62,9 @@ parallel on separate product files:
    `codex login` ChatGPT session (no key; Codex's logs land in `.tmp/`);
    `--backend openai` calls the Images API with `OPENAI_API_KEY` instead.
    Either way the result is resized to a 1024 px WebP master.
-3. A person approves or rejects each in `bun run images:review`. A rejected
+3. A person approves or rejects each in `bun run images:review`, or, having
+   looked through them, approves every picture awaiting review at once
+   ("Approve all", behind a confirmation). A rejected
    picture is deleted and goes back to `missing`; refine the subject first.
 
 Never set `status: approved` by hand or from an agent: approval is the

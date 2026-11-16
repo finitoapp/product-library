@@ -37,6 +37,9 @@ const page = (products: ReadonlyArray<SourceProduct>, all: boolean): string => {
   const shown = products.filter(({ image }) =>
     all ? image.status !== "missing" : image.status === "generated"
   )
+  const awaiting = products.filter(
+    ({ image }) => image.status === "generated"
+  ).length
   return `<!doctype html><meta charset="utf-8"><title>Picture review</title>
 <style>
   body { font: 14px system-ui, sans-serif; margin: 24px; background: #fafafa; color: #222 }
@@ -48,6 +51,11 @@ const page = (products: ReadonlyArray<SourceProduct>, all: boolean): string => {
 </style>
 <h1>Picture review</h1>
 <p>${shown.length} shown · <a href="/">awaiting review</a> · <a href="/?all">all pictures</a></p>
+${
+  awaiting > 0
+    ? `<form method="post" action="/approve-all" onsubmit="return confirm('Approve all ${awaiting} pictures awaiting review?')"><button>Approve all ${awaiting} awaiting review</button></form>`
+    : ""
+}
 <main>${shown.map(card).join("")}</main>`
 }
 
@@ -70,6 +78,18 @@ Bun.serve({
       return (await file.exists())
         ? new Response(file)
         : new Response("Not found", { status: 404 })
+    },
+    // Everything still `generated` — what the default view lists — after the
+    // person looked through it; the page asks for confirmation first.
+    "/approve-all": {
+      POST: async (request) => {
+        const awaiting = (await loadSource()).products.filter(
+          ({ image }) => image.status === "generated"
+        )
+        for (const product of awaiting)
+          await setImageStatus(product, "approved")
+        return Response.redirect(request.headers.get("referer") ?? "/", 303)
+      },
     },
     "/approve/:id": {
       POST: async (request) => {
