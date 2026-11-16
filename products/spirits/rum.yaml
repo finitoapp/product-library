@@ -13,4 +13,4 @@ vat:
   SK: 2300
 image:
   subject: "a small tumbler with a measure of golden-brown rum, neat"
-  status: missing
+  status: generated

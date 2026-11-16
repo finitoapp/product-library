@@ -13,4 +13,4 @@ vat:
   SK: 1900
 image:
   subject: "a clear glass of still water with a slice of lemon"
-  status: missing
+  status: generated

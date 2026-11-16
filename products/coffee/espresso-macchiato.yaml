@@ -13,4 +13,4 @@ vat:
   SK: 1900
 image:
   subject: "an espresso macchiato, an espresso topped with a small dollop of milk foam in a small white ceramic cup on a saucer"
-  status: missing
+  status: generated

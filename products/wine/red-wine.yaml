@@ -13,4 +13,4 @@ vat:
   SK: 2300
 image:
   subject: "a stemmed wine glass of deep ruby red wine"
-  status: missing
+  status: generated

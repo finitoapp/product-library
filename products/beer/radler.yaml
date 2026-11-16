@@ -13,4 +13,4 @@ vat:
   SK: 2300
 image:
   subject: "a glass of cloudy pale radler with a light foam head and a lemon slice on the rim"
-  status: missing
+  status: generated

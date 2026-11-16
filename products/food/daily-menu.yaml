@@ -13,4 +13,4 @@ vat:
   SK: 1900
 image:
   subject: "a lunch plate of roast chicken with potatoes and vegetables next to a small bowl of soup"
-  status: missing
+  status: generated

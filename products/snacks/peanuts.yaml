@@ -13,4 +13,4 @@ vat:
   SK: 1900
 image:
   subject: "a small white bowl of salted roasted peanuts"
-  status: missing
+  status: generated

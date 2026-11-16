@@ -13,4 +13,4 @@ vat:
   SK: 1900
 image:
   subject: "a slice of toasted sourdough topped with smashed avocado, a poached egg and chili flakes on a white plate"
-  status: missing
+  status: generated
