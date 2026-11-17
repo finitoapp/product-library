@@ -1,0 +1,16 @@
+id: sour-lentils
+category: food
+names:
+  cs: "Čočka na kyselo s vejcem"
+  sk: "Šošovica na kyslo s vajcom"
+  en: "Sour lentils with fried egg"
+synonyms:
+  cs: ["čočka", "cocka", "čočka s vejcem", "čočka s okurkou"]
+  sk: ["sosovica", "sosovica s vajcom"]
+related: [lentil-soup, bread]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "brown stewed lentils topped with a sunny-side-up fried egg and a sliced pickled gherkin on a white plate"
+  status: approved

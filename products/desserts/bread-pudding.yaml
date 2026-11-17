@@ -1,0 +1,16 @@
+id: bread-pudding
+category: desserts
+names:
+  cs: "Žemlovka"
+  sk: "Žemľovka"
+  en: "Bread and apple pudding"
+synonyms:
+  cs: ["zemlovka", "žemlovka s jablky", "jablečná žemlovka"]
+  sk: ["zemlovka"]
+related: [sweet-buns, crepes]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a square portion of baked bread and apple pudding with a golden top on a white plate"
+  status: approved

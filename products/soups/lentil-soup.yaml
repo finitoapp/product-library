@@ -1,0 +1,16 @@
+id: lentil-soup
+category: soups
+names:
+  cs: "Čočková polévka"
+  sk: "Šošovicová polievka"
+  en: "Lentil soup"
+synonyms:
+  cs: ["čočkovka", "cockova", "cockovka"]
+  sk: ["sosovicova", "sosovicovka"]
+related: [potato-soup, sour-lentils]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a white bowl of thick brown lentil soup with diced carrot and slices of smoked sausage"
+  status: approved

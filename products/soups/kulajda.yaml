@@ -1,0 +1,16 @@
+id: kulajda
+category: soups
+names:
+  cs: "Kulajda"
+  sk: "Kulajda"
+  en: "Creamy dill soup"
+synonyms:
+  cs: ["koprová polévka", "kulajda s vejcem", "kulejda"]
+  sk: ["koprova polievka"]
+related: [potato-soup, garlic-soup]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a white bowl of creamy white dill soup with potatoes, mushrooms and a poached egg, sprinkled with fresh dill"
+  status: approved

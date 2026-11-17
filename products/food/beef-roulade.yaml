@@ -1,0 +1,16 @@
+id: beef-roulade
+category: food
+names:
+  cs: "Španělský ptáček s rýží"
+  sk: "Španielsky vtáčik s ryžou"
+  en: "Beef roulade with rice"
+synonyms:
+  cs: ["španělský ptáček", "spanelsky ptacek", "ptáček", "hovězí závitek"]
+  sk: ["spanielsky vtacik"]
+related: [rice, bread-dumplings]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a beef roulade cut open to show its bacon, sausage, egg and pickle filling, in brown gravy with a mound of white rice on a white plate"
+  status: approved

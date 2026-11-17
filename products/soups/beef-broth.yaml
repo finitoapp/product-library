@@ -1,0 +1,16 @@
+id: beef-broth
+category: soups
+names:
+  cs: "Hovězí vývar s nudlemi"
+  sk: "Hovädzí vývar s rezancami"
+  en: "Beef broth with noodles"
+synonyms:
+  cs: ["vývar", "vyvar", "hovězí polévka", "nudlová polévka", "s játrovými knedlíčky"]
+  sk: ["vyvar", "hovadzi vyvar"]
+related: [garlic-soup, svickova, roast-pork-dumplings]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a white bowl of clear golden beef broth with thin egg noodles, sliced carrot and chopped parsley"
+  status: approved

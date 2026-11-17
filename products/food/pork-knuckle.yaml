@@ -1,0 +1,16 @@
+id: pork-knuckle
+category: food
+names:
+  cs: "Pečené vepřové koleno"
+  sk: "Pečené bravčové koleno"
+  en: "Roast pork knuckle"
+synonyms:
+  cs: ["koleno", "vepřové koleno", "vepro koleno", "kolínko"]
+  sk: ["koleno", "bravcove koleno"]
+related: [draft-lager-large, bread, pork-ribs]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a whole roast pork knuckle with crackling skin on a wooden board with mustard, grated horseradish and pickled peppers"
+  status: approved

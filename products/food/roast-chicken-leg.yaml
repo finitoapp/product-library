@@ -1,0 +1,16 @@
+id: roast-chicken-leg
+category: food
+names:
+  cs: "Pečené kuřecí stehno"
+  sk: "Pečené kuracie stehno"
+  en: "Roast chicken leg"
+synonyms:
+  cs: ["kuřecí stehno", "kureci stehno", "pečené kuře", "čtvrtka kuřete"]
+  sk: ["kuracie stehno", "pecene kura"]
+related: [rice, boiled-potatoes, mashed-potatoes]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a golden roast chicken leg quarter with crisp skin and pan juices on a white plate"
+  status: approved

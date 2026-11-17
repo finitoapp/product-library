@@ -1,0 +1,16 @@
+id: fried-cauliflower
+category: food
+names:
+  cs: "Smažený květák"
+  sk: "Vyprážaný karfiol"
+  en: "Fried cauliflower"
+synonyms:
+  cs: ["květák", "kvetak", "smazeny kvetak", "obalovaný květák"]
+  sk: ["karfiol", "vyprazany karfiol"]
+related: [boiled-potatoes, tartar-sauce, mashed-potatoes]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "golden breaded fried cauliflower florets on a white plate with a small bowl of tartar sauce"
+  status: approved

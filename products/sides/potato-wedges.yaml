@@ -1,0 +1,16 @@
+id: potato-wedges
+category: sides
+names:
+  cs: "Americké brambory"
+  sk: "Americké zemiaky"
+  en: "Potato wedges"
+synonyms:
+  cs: ["americke brambory", "bramborové klínky", "americké"]
+  sk: ["americke zemiaky"]
+related: [burger, chicken-steak, pork-ribs]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "seasoned roasted potato wedges with skin on in a small white bowl"
+  status: approved

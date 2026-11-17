@@ -1,0 +1,16 @@
+id: goulash-soup
+category: soups
+names:
+  cs: "Gulášová polévka"
+  sk: "Gulášová polievka"
+  en: "Goulash soup"
+synonyms:
+  cs: ["gulášovka", "gulasovka", "gulasova polevka"]
+  sk: ["gulasova", "gulasovka"]
+related: [tripe-soup, garlic-soup, draft-lager-large]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a white bowl of rich red-brown goulash soup with beef cubes and diced potatoes"
+  status: approved

@@ -1,0 +1,16 @@
+id: roast-pork-dumplings
+category: food
+names:
+  cs: "Vepřová pečeně se zelím a knedlíkem"
+  sk: "Bravčová pečienka s kapustou a knedľou"
+  en: "Roast pork with dumplings and sauerkraut"
+synonyms:
+  cs: ["vepřo knedlo zelo", "vepro knedlo zelo", "vepřová pečeně", "moravský vrabec"]
+  sk: ["bravcova pecienka", "pecienka"]
+related: [bread-dumplings, draft-lager-large, beef-broth]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "slices of roast pork with dark gravy, sliced bread dumplings and braised white sauerkraut on a white plate"
+  status: approved

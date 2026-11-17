@@ -1,0 +1,16 @@
+id: fruit-dumplings
+category: desserts
+names:
+  cs: "Ovocné knedlíky"
+  sk: "Ovocné knedle"
+  en: "Fruit dumplings"
+synonyms:
+  cs: ["ovocne knedliky", "švestkové knedlíky", "jahodové knedlíky", "meruňkové knedlíky"]
+  sk: ["ovocne knedle", "slivkove knedle"]
+related: [crepes, sweet-buns]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "four round fruit dumplings topped with grated quark, powdered sugar and melted butter on a white plate"
+  status: approved

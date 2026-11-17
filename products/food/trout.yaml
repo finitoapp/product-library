@@ -1,0 +1,16 @@
+id: trout
+category: food
+names:
+  cs: "Pstruh na másle"
+  sk: "Pstruh na masle"
+  en: "Trout with butter"
+synonyms:
+  cs: ["pstruh", "pstruh na grilu", "pečený pstruh"]
+  sk: ["pstruh", "grilovany pstruh"]
+related: [boiled-potatoes, white-wine]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a whole pan-fried trout glazed with melted butter and parsley, with a lemon wedge, on a white oval plate"
+  status: approved

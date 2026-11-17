@@ -1,0 +1,16 @@
+id: tartar-sauce
+category: sides
+names:
+  cs: "Tatarská omáčka"
+  sk: "Tatárska omáčka"
+  en: "Tartar sauce"
+synonyms:
+  cs: ["tatarka", "tatarska", "tatarská"]
+  sk: ["tatarska", "tatarka"]
+related: [fried-cheese, fries, fried-cauliflower]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "tartar sauce with chopped pickles in a small white ramekin"
+  status: approved

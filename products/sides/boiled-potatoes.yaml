@@ -1,0 +1,16 @@
+id: boiled-potatoes
+category: sides
+names:
+  cs: "Vařené brambory"
+  sk: "Varené zemiaky"
+  en: "Boiled potatoes"
+synonyms:
+  cs: ["brambory", "brambor", "vařený brambor", "vareny brambory"]
+  sk: ["zemiaky", "varene zemiaky"]
+related: [chicken-schnitzel, fried-cauliflower, trout]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "boiled peeled potatoes with melted butter and chopped parsley in a small white bowl"
+  status: approved

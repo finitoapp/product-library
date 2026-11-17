@@ -1,0 +1,16 @@
+id: roast-duck
+category: food
+names:
+  cs: "Pečená kachna se zelím a knedlíkem"
+  sk: "Pečená kačica s kapustou a knedľou"
+  en: "Roast duck with dumplings and red cabbage"
+synonyms:
+  cs: ["kachna", "pečená kachna", "kachní stehno", "kachna se zelím"]
+  sk: ["kacica", "pecena kacica", "kacacie stehno"]
+related: [potato-dumplings, bread-dumplings, draft-lager-large]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a crispy roast duck leg with braised red cabbage and sliced bread and potato dumplings on a white plate"
+  status: approved

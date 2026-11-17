@@ -1,0 +1,16 @@
+id: halusky
+category: food
+names:
+  cs: "Brynzové halušky"
+  sk: "Bryndzové halušky"
+  en: "Halušky with sheep cheese"
+synonyms:
+  cs: ["halušky", "halusky", "bryndzové halušky", "brynzove halusky"]
+  sk: ["halusky", "bryndzove halusky"]
+related: [sauerkraut-soup, draft-lager-large]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "small potato dumplings coated in creamy sheep cheese, topped with crispy bacon pieces and chopped chives, on a white plate"
+  status: approved

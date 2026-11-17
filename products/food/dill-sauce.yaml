@@ -1,0 +1,16 @@
+id: dill-sauce
+category: food
+names:
+  cs: "Koprová omáčka s vejcem a knedlíkem"
+  sk: "Kôprová omáčka s vajcom a knedľou"
+  en: "Dill sauce with egg and dumplings"
+synonyms:
+  cs: ["koprovka", "koprová omáčka", "koprova"]
+  sk: ["koprova omacka", "kôprovka"]
+related: [bread-dumplings, boiled-potatoes]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "creamy pale dill sauce with a halved hard-boiled egg and sliced bread dumplings, sprinkled with fresh dill, on a white plate"
+  status: approved

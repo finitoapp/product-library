@@ -1,0 +1,16 @@
+id: sundae
+category: desserts
+names:
+  cs: "Zmrzlinový pohár"
+  sk: "Zmrzlinový pohár"
+  en: "Ice cream sundae"
+synonyms:
+  cs: ["pohár", "zmrzlinovy pohar", "zmrzlina se šlehačkou"]
+  sk: ["pohar", "zmrzlinovy pohar"]
+related: [crepes, ice-cream, espresso]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a tall glass sundae cup with scoops of ice cream, fresh fruit, whipped cream and a wafer"
+  status: approved

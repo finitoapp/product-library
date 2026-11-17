@@ -72,3 +72,32 @@
     - peanuts
     - chips
     - nachos
+- id: restaurant
+  names:
+    cs: "Restaurace"
+    sk: "Reštaurácia"
+    en: "Restaurant"
+  products:
+    - soup-of-the-day
+    - garlic-soup
+    - beef-broth
+    - goulash
+    - svickova
+    - roast-pork-dumplings
+    - schnitzel
+    - chicken-schnitzel
+    - fried-cheese
+    - pork-knuckle
+    - bread-dumplings
+    - boiled-potatoes
+    - fries
+    - potato-salad
+    - tartar-sauce
+    - crepes
+    - apple-strudel
+    - draft-lager-large
+    - draft-lager-small
+    - non-alcoholic-beer
+    - cola
+    - still-water
+    - espresso

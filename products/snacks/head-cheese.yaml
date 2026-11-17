@@ -1,0 +1,16 @@
+id: head-cheese
+category: snacks
+names:
+  cs: "Tlačenka s cibulí"
+  sk: "Tlačenka s cibuľou"
+  en: "Head cheese with onion"
+synonyms:
+  cs: ["tlačenka", "tlacenka", "tlačenka s octem"]
+  sk: ["tlacenka"]
+related: [pickled-sausage, draft-lager-large, bread]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "slices of pork head cheese drizzled with vinegar and topped with sliced onion, with a slice of rye bread on a white plate"
+  status: approved

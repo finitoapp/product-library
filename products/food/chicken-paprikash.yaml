@@ -1,0 +1,16 @@
+id: chicken-paprikash
+category: food
+names:
+  cs: "Kuře na paprice s knedlíkem"
+  sk: "Kurací paprikáš s knedľou"
+  en: "Chicken paprikash with dumplings"
+synonyms:
+  cs: ["kuře na paprice", "kure na paprice", "paprikáš", "paprikové kuře"]
+  sk: ["kuraci paprikas", "paprikas"]
+related: [bread-dumplings, rice]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "chicken pieces in creamy orange paprika sauce with sliced bread dumplings on a white plate"
+  status: approved

@@ -1,0 +1,16 @@
+id: svickova
+category: food
+names:
+  cs: "Svíčková na smetaně"
+  sk: "Sviečková na smotane"
+  en: "Beef sirloin in cream sauce"
+synonyms:
+  cs: ["svíčková", "svickova", "svičková", "s knedlíkem"]
+  sk: ["sviečková", "svieckova"]
+related: [bread-dumplings, beef-broth, draft-lager-large]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "slices of braised beef in smooth creamy orange root-vegetable sauce with sliced bread dumplings, a dollop of whipped cream, cranberries and a lemon slice on a white plate"
+  status: approved

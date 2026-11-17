@@ -1,0 +1,16 @@
+id: mashed-potatoes
+category: sides
+names:
+  cs: "Bramborová kaše"
+  sk: "Zemiaková kaša"
+  en: "Mashed potatoes"
+synonyms:
+  cs: ["kaše", "kase", "bramborova kase", "pyré"]
+  sk: ["kasa", "zemiakova kasa", "pyre"]
+related: [chicken-schnitzel, roast-chicken-leg, fried-cauliflower]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a scoop of creamy mashed potatoes topped with butter and crispy fried onion in a small white bowl"
+  status: approved

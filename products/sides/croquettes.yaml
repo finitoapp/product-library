@@ -1,0 +1,16 @@
+id: croquettes
+category: sides
+names:
+  cs: "Krokety"
+  sk: "Krokety"
+  en: "Potato croquettes"
+synonyms:
+  cs: ["kroketky", "bramborové krokety"]
+  sk: ["zemiakove krokety"]
+related: [chicken-schnitzel, fried-cheese]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a portion of golden crispy potato croquettes in a small white bowl"
+  status: approved

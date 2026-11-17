@@ -1,0 +1,16 @@
+id: crepes
+category: desserts
+names:
+  cs: "Palačinky"
+  sk: "Palacinky"
+  en: "Crêpes"
+synonyms:
+  cs: ["palacinky", "palačinka", "palačinky s marmeládou"]
+  sk: ["palacinka"]
+related: [sundae, fruit-dumplings, espresso]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "two rolled thin crêpes filled with jam, topped with whipped cream and powdered sugar on a white plate"
+  status: approved

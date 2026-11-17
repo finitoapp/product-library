@@ -1,0 +1,16 @@
+id: sweet-buns
+category: desserts
+names:
+  cs: "Buchtičky se šodó"
+  sk: "Buchtičky so šodó"
+  en: "Sweet buns with vanilla custard"
+synonyms:
+  cs: ["buchtičky", "buchticky", "dukátové buchtičky", "šodó"]
+  sk: ["buchticky", "dukatove buchticky"]
+related: [crepes, fruit-dumplings]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "small golden sweet yeast buns in warm vanilla custard sauce in a white deep plate, dusted with powdered sugar"
+  status: approved
