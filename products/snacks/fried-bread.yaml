@@ -1,0 +1,16 @@
+id: fried-bread
+category: snacks
+names:
+  cs: "Topinky s česnekem"
+  sk: "Hrianky s cesnakom"
+  en: "Fried bread with garlic"
+synonyms:
+  cs: ["topinky", "topinka", "topinky s cesnekem"]
+  sk: ["hrianky", "hrianka"]
+related: [steak-tartare, garlic-soup, draft-lager-large]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "three slices of crispy pan-fried rye bread with a peeled garlic clove on a white plate"
+  status: approved

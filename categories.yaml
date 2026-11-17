@@ -40,11 +40,21 @@
     cs: "Dezerty"
     sk: "Dezerty"
     en: "Desserts"
+- id: soups
+  names:
+    cs: "Polévky"
+    sk: "Polievky"
+    en: "Soups"
 - id: food
   names:
     cs: "Jídla"
     sk: "Jedlá"
     en: "Meals"
+- id: sides
+  names:
+    cs: "Přílohy"
+    sk: "Prílohy"
+    en: "Side dishes"
 - id: snacks
   names:
     cs: "K pivu"

@@ -1,0 +1,16 @@
+id: chocolate-fondant
+category: desserts
+names:
+  cs: "Čokoládový fondant"
+  sk: "Čokoládový fondant"
+  en: "Chocolate fondant"
+synonyms:
+  cs: ["fondant", "lávový dort", "cokoladovy fondant"]
+  sk: ["fondant", "cokoladovy fondant"]
+related: [ice-cream, espresso]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a warm chocolate fondant cut open with molten chocolate flowing out, with a scoop of vanilla ice cream on a white plate"
+  status: approved

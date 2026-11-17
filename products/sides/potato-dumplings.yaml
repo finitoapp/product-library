@@ -1,0 +1,16 @@
+id: potato-dumplings
+category: sides
+names:
+  cs: "Bramborový knedlík"
+  sk: "Zemiaková knedľa"
+  en: "Potato dumplings"
+synonyms:
+  cs: ["bramborové knedlíky", "bramborovy knedlik"]
+  sk: ["zemiakova knedla", "zemiakove knedle"]
+related: [roast-duck, roast-pork-dumplings]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "slices of dense pale potato dumpling on a small white plate"
+  status: approved

@@ -1,0 +1,16 @@
+id: potato-salad
+category: sides
+names:
+  cs: "Bramborový salát"
+  sk: "Zemiakový šalát"
+  en: "Potato salad"
+synonyms:
+  cs: ["bramborovy salat", "salát"]
+  sk: ["zemiakovy salat", "salat"]
+related: [chicken-schnitzel, schnitzel]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "Czech potato salad with mayonnaise, diced gherkins, carrot and onion in a small white bowl"
+  status: approved

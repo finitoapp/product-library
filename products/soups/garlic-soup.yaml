@@ -1,0 +1,16 @@
+id: garlic-soup
+category: soups
+names:
+  cs: "Česnečka"
+  sk: "Cesnačka"
+  en: "Garlic soup"
+synonyms:
+  cs: ["česneková polévka", "cesnecka", "česnekačka", "česnekovka"]
+  sk: ["cesnakova polievka", "cesnacka"]
+related: [potato-soup, goulash-soup, beef-broth]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a white bowl of clear golden garlic soup with diced potatoes, grated cheese and crispy croutons"
+  status: approved

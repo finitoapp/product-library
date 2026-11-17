@@ -1,0 +1,16 @@
+id: sauerkraut-soup
+category: soups
+names:
+  cs: "Zelňačka"
+  sk: "Kapustnica"
+  en: "Sauerkraut soup"
+synonyms:
+  cs: ["zelná polévka", "zelnacka", "kapustnice"]
+  sk: ["kapustova polievka"]
+related: [goulash-soup, pork-knuckle, grilled-sausage]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a white bowl of sauerkraut soup with sliced smoked sausage, potatoes and a swirl of sour cream"
+  status: approved

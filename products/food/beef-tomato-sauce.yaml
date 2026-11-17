@@ -1,0 +1,16 @@
+id: beef-tomato-sauce
+category: food
+names:
+  cs: "Rajská omáčka s knedlíkem"
+  sk: "Paradajková omáčka s knedľou"
+  en: "Beef in tomato sauce with dumplings"
+synonyms:
+  cs: ["rajská", "rajska", "rajská s masem", "rajská omáčka"]
+  sk: ["paradajkova omacka", "paradajkova"]
+related: [bread-dumplings, beef-broth]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "slices of boiled beef in smooth sweet tomato sauce with sliced bread dumplings on a white plate"
+  status: approved

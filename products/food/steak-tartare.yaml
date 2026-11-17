@@ -1,0 +1,16 @@
+id: steak-tartare
+category: food
+names:
+  cs: "Tatarský biftek s topinkami"
+  sk: "Tatársky biftek s hriankami"
+  en: "Steak tartare with fried bread"
+synonyms:
+  cs: ["tatarák", "tatarak", "tatarský biftek", "biftek"]
+  sk: ["tatarak", "tatarsky biftek"]
+related: [fried-bread, draft-lager-large, red-wine]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a mound of raw steak tartare with a raw egg yolk, chopped onion and capers, with crispy fried bread slices and a garlic clove on a white plate"
+  status: approved

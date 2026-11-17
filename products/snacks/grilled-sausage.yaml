@@ -1,0 +1,16 @@
+id: grilled-sausage
+category: snacks
+names:
+  cs: "Opékaná klobása"
+  sk: "Opekaná klobása"
+  en: "Grilled sausage"
+synonyms:
+  cs: ["klobása", "klobasa", "opekana klobasa", "klobása s hořčicí"]
+  sk: ["klobasa", "opekana klobasa"]
+related: [draft-lager-large, bread, pickled-sausage]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a grilled pork sausage with mustard, grated horseradish and a slice of rye bread on a white plate"
+  status: approved

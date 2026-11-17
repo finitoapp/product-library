@@ -1,0 +1,16 @@
+id: chicken-steak
+category: food
+names:
+  cs: "Kuřecí steak"
+  sk: "Kurací steak"
+  en: "Grilled chicken breast"
+synonyms:
+  cs: ["kureci steak", "kuřecí prsa", "grilovaný kuřecí steak", "kuřecí plátek"]
+  sk: ["kuraci steak", "kuracie prsia"]
+related: [fried-potatoes, grilled-vegetables, rice]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a grilled chicken breast steak with grill marks and a pat of herb butter on a white plate"
+  status: approved

@@ -1,0 +1,16 @@
+id: pork-ribs
+category: food
+names:
+  cs: "Pečená vepřová žebírka"
+  sk: "Pečené bravčové rebierka"
+  en: "Roast pork ribs"
+synonyms:
+  cs: ["žebírka", "zebirka", "žebra", "vepřová žebra", "bbq žebírka"]
+  sk: ["rebierka", "rebra"]
+related: [pork-knuckle, bread, draft-lager-large]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a rack of glazed roast pork ribs with mustard, grated horseradish and pickled peppers on a wooden board"
+  status: approved

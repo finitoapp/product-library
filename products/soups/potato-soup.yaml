@@ -1,0 +1,16 @@
+id: potato-soup
+category: soups
+names:
+  cs: "Bramboračka"
+  sk: "Zemiaková polievka"
+  en: "Potato soup"
+synonyms:
+  cs: ["bramborová polévka", "bramboracka", "bramborovka"]
+  sk: ["zemiakova polievka", "zemiakovka"]
+related: [garlic-soup, goulash-soup, potato-pancakes]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a white bowl of thick Czech potato soup with diced potatoes, root vegetables, mushrooms and marjoram"
+  status: approved

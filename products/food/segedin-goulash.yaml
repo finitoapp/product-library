@@ -1,0 +1,16 @@
+id: segedin-goulash
+category: food
+names:
+  cs: "Segedínský guláš s knedlíkem"
+  sk: "Segedínsky guláš s knedľou"
+  en: "Szeged goulash with dumplings"
+synonyms:
+  cs: ["segedín", "segedin", "segedínský guláš", "segedinsky gulas"]
+  sk: ["segedin", "segedinsky gulas"]
+related: [bread-dumplings, goulash, draft-lager-large]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "Szeged goulash of pork and sauerkraut in creamy paprika sauce with sliced bread dumplings on a white plate"
+  status: approved

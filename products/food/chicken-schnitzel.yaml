@@ -1,0 +1,16 @@
+id: chicken-schnitzel
+category: food
+names:
+  cs: "Kuřecí řízek"
+  sk: "Kurací rezeň"
+  en: "Chicken schnitzel"
+synonyms:
+  cs: ["kureci rizek", "smažený kuřecí řízek", "kuřecí"]
+  sk: ["kuraci rezen", "vyprazany kuraci rezen"]
+related: [potato-salad, boiled-potatoes, fries, cucumber-salad]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a golden breaded chicken schnitzel with a lemon wedge on a white plate"
+  status: approved

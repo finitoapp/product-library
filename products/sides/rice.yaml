@@ -1,0 +1,16 @@
+id: rice
+category: sides
+names:
+  cs: "Rýže"
+  sk: "Ryža"
+  en: "Rice"
+synonyms:
+  cs: ["ryze", "dušená rýže"]
+  sk: ["ryza"]
+related: [beef-roulade, chicken-paprikash, chicken-steak]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a dome of steamed white rice in a small white bowl"
+  status: approved

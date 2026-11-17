@@ -1,0 +1,16 @@
+id: honey-cake
+category: desserts
+names:
+  cs: "Medovník"
+  sk: "Medovník"
+  en: "Honey cake"
+synonyms:
+  cs: ["medovnik", "medový dort"]
+  sk: ["medovnik"]
+related: [espresso, cappuccino]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a slice of layered honey cake with cream filling and a crumb coating on a small white plate"
+  status: approved

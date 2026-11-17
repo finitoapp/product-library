@@ -1,0 +1,16 @@
+id: cucumber-salad
+category: sides
+names:
+  cs: "Okurkový salát"
+  sk: "Uhorkový šalát"
+  en: "Cucumber salad"
+synonyms:
+  cs: ["okurkovy salat", "okurky", "salát z okurek"]
+  sk: ["uhorkovy salat"]
+related: [chicken-schnitzel, schnitzel]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "thinly sliced cucumber salad in a light sweet-sour dressing sprinkled with paprika in a small glass bowl"
+  status: approved

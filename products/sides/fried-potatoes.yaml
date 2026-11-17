@@ -1,0 +1,16 @@
+id: fried-potatoes
+category: sides
+names:
+  cs: "Opékané brambory"
+  sk: "Opekané zemiaky"
+  en: "Pan-fried potatoes"
+synonyms:
+  cs: ["opekane brambory", "restované brambory", "opékáče"]
+  sk: ["opekane zemiaky"]
+related: [chicken-steak, pork-ribs]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "golden pan-fried potato slices with onion and caraway in a small white bowl"
+  status: approved

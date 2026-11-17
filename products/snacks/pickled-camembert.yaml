@@ -1,0 +1,16 @@
+id: pickled-camembert
+category: snacks
+names:
+  cs: "Nakládaný hermelín"
+  sk: "Nakladaný hermelín"
+  en: "Pickled camembert"
+synonyms:
+  cs: ["hermelín", "nakladany hermelin", "nakládaný sýr"]
+  sk: ["hermelin", "nakladany syr"]
+related: [draft-lager-large, pickled-sausage, bread]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a round soft white-rind cheese marinated in oil with sliced onion, chili and peppercorns in a small glass dish, with a slice of dark bread"
+  status: approved

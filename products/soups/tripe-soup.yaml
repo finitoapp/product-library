@@ -1,0 +1,16 @@
+id: tripe-soup
+category: soups
+names:
+  cs: "Dršťková polévka"
+  sk: "Držková polievka"
+  en: "Tripe soup"
+synonyms:
+  cs: ["dršťkovka", "drstkova", "drštková", "drstkovka"]
+  sk: ["drzkova", "drzkovka"]
+related: [goulash-soup, draft-lager-large, garlic-soup]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a white bowl of thick paprika-red tripe soup with thin strips of tripe and a slice of rye bread beside it"
+  status: approved
