@@ -5,9 +5,9 @@ names:
   sk: "Whisky 4 cl"
   en: "Whisky 4 cl"
 synonyms:
-  cs: ["whiskey", "viski"]
-  sk: ["whiskey"]
-related: [rum, cheese-board]
+  cs: ["whiskey", "viski", "irská whiskey", "irish whiskey", "tullamore"]
+  sk: ["whiskey", "irska whiskey"]
+related: [rum, honey-whiskey, cheese-board]
 vat:
   CZ: 2100
   SK: 2300

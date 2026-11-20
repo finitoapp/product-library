@@ -5,9 +5,9 @@ names:
   sk: "Vodka 4 cl"
   en: "Vodka 4 cl"
 synonyms:
-  cs: ["votka", "panák"]
+  cs: ["votka", "panák", "absolut"]
   sk: ["vodka"]
-related: [tonic, rum]
+related: [tonic, rum, gin, cosmopolitan]
 vat:
   CZ: 2100
   SK: 2300

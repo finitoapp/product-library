@@ -13,6 +13,7 @@
     - flat-white
     - cafe-latte
     - latte-macchiato
+    - iced-coffee
     - hot-chocolate
     - black-tea
     - herbal-tea
@@ -56,11 +57,13 @@
     - draft-lager-small
     - non-alcoholic-beer
     - radler
+    - cider
     - white-wine
     - red-wine
     - sparkling-wine
     - spritz
     - gin-tonic
+    - gin
     - rum
     - vodka
     - plum-brandy

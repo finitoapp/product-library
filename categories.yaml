@@ -30,6 +30,11 @@
     cs: "Lihoviny"
     sk: "Destiláty"
     en: "Spirits"
+- id: cocktails
+  names:
+    cs: "Koktejly"
+    sk: "Kokteily"
+    en: "Cocktails"
 - id: pastry
   names:
     cs: "Snídaně a pečivo"

@@ -1,0 +1,16 @@
+id: irish-coffee
+category: coffee
+names:
+  cs: "Irská káva"
+  sk: "Írska káva"
+  en: "Irish coffee"
+synonyms:
+  cs: ["irish coffee", "irska kava", "irák", "káva s whisky"]
+  sk: ["irish coffee", "irska kava", "kava s whisky"]
+related: [algerian-coffee, viennese-coffee, whisky]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "an Irish coffee in a stemmed heat-proof glass, dark coffee topped with a thick layer of lightly whipped cream"
+  status: missing

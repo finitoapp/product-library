@@ -5,7 +5,7 @@ names:
   sk: "Pomarančový džús"
   en: "Orange juice"
 synonyms:
-  cs: ["džus", "fresh", "pomerancovy dzus", "fresh juice"]
+  cs: ["džus", "fresh", "pomerancovy dzus", "fresh juice", "juice"]
   sk: ["dzus", "pomarancovy dzus"]
 related: [apple-juice, croissant, scrambled-eggs]
 vat:

@@ -5,9 +5,9 @@ names:
   sk: "Sýtená voda"
   en: "Sparkling water"
 synonyms:
-  cs: ["minerálka", "perliva voda", "sodovka"]
+  cs: ["minerálka", "perliva voda"]
   sk: ["mineralka", "sytena voda"]
-related: [still-water, lemonade, tonic]
+related: [still-water, soda-water, lemonade, tonic]
 vat:
   CZ: 1200
   SK: 1900

@@ -1,0 +1,16 @@
+id: cuba-libre
+category: cocktails
+names:
+  cs: "Cuba libre"
+  sk: "Cuba libre"
+  en: "Cuba libre"
+synonyms:
+  cs: ["kuba libre", "cuba", "rum s colou", "rum s kolou"]
+  sk: ["kuba libre", "rum s kolou"]
+related: [gin-tonic, spritz, rum, cola]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a Cuba libre, rum and cola in a tall highball glass with ice cubes, a lime wedge and a straw"
+  status: missing

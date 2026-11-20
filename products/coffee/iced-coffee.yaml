@@ -1,0 +1,16 @@
+id: iced-coffee
+category: coffee
+names:
+  cs: "Ledová káva"
+  sk: "Ľadová káva"
+  en: "Iced coffee"
+synonyms:
+  cs: ["ledova kava", "ledové kafe", "káva se zmrzlinou", "kava se zmrzlinou", "frappé"]
+  sk: ["ladova kava", "kava so zmrzlinou", "frappe"]
+related: [iced-latte, espresso-tonic, sundae, lemonade]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a Czech iced coffee in a tall glass, chilled coffee with a scoop of vanilla ice cream, topped with whipped cream, a drizzle of chocolate and a straw"
+  status: missing

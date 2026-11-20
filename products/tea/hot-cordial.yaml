@@ -1,0 +1,16 @@
+id: hot-cordial
+category: tea
+names:
+  cs: "Horký sirup"
+  sk: "Horúci sirup"
+  en: "Hot cordial"
+synonyms:
+  cs: ["horky sirup", "teplý sirup", "horká malina", "horka malina", "horký kitl", "kitl"]
+  sk: ["horuci sirup", "teply sirup", "horuca malina"]
+related: [hot-chocolate, fruit-tea, ginger-tea, mulled-wine]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a steaming deep-red hot raspberry cordial in a tall clear heat-proof glass with a handle, with a slice of lemon"
+  status: missing

@@ -5,9 +5,9 @@ names:
   sk: "Ľadové latte"
   en: "Iced latte"
 synonyms:
-  cs: ["iced latte", "ledová káva", "ice latte"]
-  sk: ["iced latte", "ladova kava"]
-related: [cafe-latte, iced-tea, lemonade]
+  cs: ["iced latte", "ice latte", "ledove latte"]
+  sk: ["iced latte", "ladove latte"]
+related: [cafe-latte, iced-coffee, espresso-tonic, iced-tea, lemonade]
 vat:
   CZ: 1200
   SK: 1900

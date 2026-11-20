@@ -1,0 +1,16 @@
+id: espresso-tonic
+category: coffee
+names:
+  cs: "Espresso tonic"
+  sk: "Espresso tonic"
+  en: "Espresso tonic"
+synonyms:
+  cs: ["espresso tonik", "espreso tonic", "kávový tonic", "coffee tonic", "tonic s espressem"]
+  sk: ["espresso tonik", "kavovy tonik", "coffee tonic"]
+related: [iced-latte, iced-coffee, tonic, espresso]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "an espresso tonic in a tall clear glass with ice cubes, clear sparkling tonic water below a dark layer of espresso, an orange slice on the rim"
+  status: missing

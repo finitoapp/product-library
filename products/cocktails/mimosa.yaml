@@ -1,0 +1,16 @@
+id: mimosa
+category: cocktails
+names:
+  cs: "Mimosa"
+  sk: "Mimosa"
+  en: "Mimosa"
+synonyms:
+  cs: ["mimoza", "prosecco s džusem", "sekt s pomerančovým džusem"]
+  sk: ["mimoza", "prosecco s dzusom"]
+related: [spritz, sparkling-wine, orange-juice, cosmopolitan]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a mimosa in a champagne flute, bright orange juice topped with sparkling wine and fine bubbles, an orange slice on the rim"
+  status: missing

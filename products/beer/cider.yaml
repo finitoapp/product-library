@@ -1,0 +1,16 @@
+id: cider
+category: beer
+names:
+  cs: "Cider"
+  sk: "Cider"
+  en: "Cider"
+synonyms:
+  cs: ["cidr", "sajdr", "jablečný cider", "jablecny cider", "hruškový cider"]
+  sk: ["cidr", "jablkovy cider"]
+related: [craft-beer, bottled-lager, radler, spritz]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a tall glass of sparkling pale golden apple cider over ice with a thin apple slice"
+  status: missing

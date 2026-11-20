@@ -1,5 +1,5 @@
 id: spritz
-category: wine
+category: cocktails
 names:
   cs: "Spritz"
   sk: "Spritz"
@@ -7,7 +7,7 @@ names:
 synonyms:
   cs: ["aperol", "aperol spritz", "sprits", "hugo"]
   sk: ["aperol", "spric"]
-related: [sparkling-wine, olives, gin-tonic]
+related: [sparkling-wine, gin-tonic, mimosa, olives]
 vat:
   CZ: 2100
   SK: 2300

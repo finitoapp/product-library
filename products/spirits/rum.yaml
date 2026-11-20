@@ -5,9 +5,9 @@ names:
   sk: "Rum 4 cl"
   en: "Rum 4 cl"
 synonyms:
-  cs: ["tuzemák", "panák"]
+  cs: ["tuzemák", "panák", "havana"]
   sk: ["rum"]
-related: [cola, whisky]
+related: [cola, cuba-libre, whisky]
 vat:
   CZ: 2100
   SK: 2300

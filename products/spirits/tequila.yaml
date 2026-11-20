@@ -1,0 +1,16 @@
+id: tequila
+category: spirits
+names:
+  cs: "Tequila 4 cl"
+  sk: "Tequila 4 cl"
+  en: "Tequila 4 cl"
+synonyms:
+  cs: ["tequila", "tekila", "tequilla", "tekyla", "sierra"]
+  sk: ["tequila", "tekila", "sierra"]
+related: [vodka, rum, gin, whisky]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a shot glass of golden tequila with a lime wedge and a small pinch of salt beside it"
+  status: missing

@@ -1,0 +1,16 @@
+id: craft-beer
+category: beer
+names:
+  cs: "Pivo z minipivovaru"
+  sk: "Pivo z minipivovaru"
+  en: "Craft beer"
+synonyms:
+  cs: ["craft", "kraft", "craft beer", "minipivovar", "řemeslné pivo", "remeslne pivo", "ipa", "ale"]
+  sk: ["craft", "craft beer", "minipivovar", "remeselne pivo", "ipa"]
+related: [bottled-lager, draft-lager-large, cider, cheese-board]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a tulip-shaped glass of hazy amber craft ale with an off-white foam head"
+  status: missing

@@ -1,0 +1,16 @@
+id: gin
+category: spirits
+names:
+  cs: "Gin 4 cl"
+  sk: "Gin 4 cl"
+  en: "Gin 4 cl"
+synonyms:
+  cs: ["gin", "džin", "dzin", "jin", "beefeater"]
+  sk: ["gin", "dzin", "beefeater"]
+related: [gin-tonic, tonic, vodka, rum]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a small tumbler with a measure of clear gin, neat, with a few juniper berries beside it"
+  status: missing

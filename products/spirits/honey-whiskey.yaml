@@ -1,0 +1,16 @@
+id: honey-whiskey
+category: spirits
+names:
+  cs: "Medová whisky 4 cl"
+  sk: "Medová whisky 4 cl"
+  en: "Honey whiskey 4 cl"
+synonyms:
+  cs: ["honey", "medová whiskey", "medova whisky", "whisky honey", "medový likér"]
+  sk: ["honey", "medova whisky", "medovy liker"]
+related: [whisky, herbal-liqueur, rum]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a small tumbler with a measure of golden honey whiskey liqueur, neat, with a small honey dipper beside it"
+  status: missing
