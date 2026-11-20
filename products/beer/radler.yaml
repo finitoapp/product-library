@@ -7,7 +7,7 @@ names:
 synonyms:
   cs: ["řezané pivo s limonádou", "citronové pivo"]
   sk: ["radler"]
-related: [draft-lager-small, non-alcoholic-beer]
+related: [draft-lager-small, non-alcoholic-beer, cider]
 vat:
   CZ: 2100
   SK: 2300

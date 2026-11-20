@@ -1,0 +1,16 @@
+id: algerian-coffee
+category: coffee
+names:
+  cs: "Alžírská káva"
+  sk: "Alžírska káva"
+  en: "Algerian coffee"
+synonyms:
+  cs: ["alzirska kava", "alžírka", "alzirka", "káva s vaječným likérem", "kava s vajecnym likerem"]
+  sk: ["alzirska kava", "kava s vajecnym likerom"]
+related: [irish-coffee, viennese-coffee, hot-chocolate]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "an Algerian coffee in a tall heat-proof glass, coffee with a layer of yellow egg liqueur, topped with whipped cream and grated chocolate"
+  status: missing

@@ -5,8 +5,8 @@ names:
   sk: "Kola"
   en: "Cola"
 synonyms:
-  cs: ["kola", "coca cola", "limonáda"]
-  sk: ["cola"]
+  cs: ["kola", "coca cola", "pepsi", "limonáda"]
+  sk: ["cola", "pepsi"]
 related: [lemonade, tonic, fries]
 vat:
   CZ: 1200

@@ -1,0 +1,16 @@
+id: loose-leaf-tea
+category: tea
+names:
+  cs: "Sypaný čaj"
+  sk: "Sypaný čaj"
+  en: "Loose-leaf tea"
+synonyms:
+  cs: ["sypany caj", "čaj v konvičce", "caj v konvicce", "konvička čaje", "sypaný"]
+  sk: ["sypany caj", "caj v kanvicke"]
+related: [black-tea, green-tea, fruit-tea, fresh-mint-tea]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "loose-leaf tea in a small clear glass teapot with the leaves visible in its infuser, a clear glass cup of amber tea beside it"
+  status: missing

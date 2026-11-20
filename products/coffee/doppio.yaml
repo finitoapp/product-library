@@ -5,7 +5,7 @@ names:
   sk: "Doppio"
   en: "Doppio"
 synonyms:
-  cs: ["dvojité espresso", "double"]
+  cs: ["dvojité espresso", "doppio espresso", "double"]
   sk: ["dvojite espresso"]
 related: [espresso, ristretto, americano]
 vat:

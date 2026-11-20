@@ -1,0 +1,16 @@
+id: turkish-coffee
+category: coffee
+names:
+  cs: "Turecká káva"
+  sk: "Turecká káva"
+  en: "Turkish coffee"
+synonyms:
+  cs: ["turek", "turecka kava", "zalévaná káva", "zalevana kava", "turecké kafe"]
+  sk: ["turek", "turecka kava", "zalievana kava"]
+related: [espresso, americano, viennese-coffee]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a Czech-style Turkish coffee, strong black coffee with fine grounds floating on the surface, in a white ceramic cup on a saucer"
+  status: missing

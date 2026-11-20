@@ -1,0 +1,16 @@
+id: bottled-lager
+category: beer
+names:
+  cs: "Lahvové pivo 0,5 l"
+  sk: "Fľaškové pivo 0,5 l"
+  en: "Bottled lager 0.5 l"
+synonyms:
+  cs: ["lahvové pivo", "lahvove pivo", "lahváč", "pivo v lahvi", "flaška piva", "pilsner"]
+  sk: ["flaskove pivo", "flasa piva", "pivo vo flasi", "pilsner"]
+related: [non-alcoholic-beer, craft-beer, cider, chips, peanuts]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a plain unlabelled brown half-litre beer bottle beside a tall glass of golden lager with a white foam head"
+  status: missing

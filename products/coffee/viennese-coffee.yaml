@@ -1,0 +1,16 @@
+id: viennese-coffee
+category: coffee
+names:
+  cs: "Vídeňská káva"
+  sk: "Viedenská káva"
+  en: "Viennese coffee"
+synonyms:
+  cs: ["videnska kava", "vídeňka", "káva se šlehačkou", "kava se slehackou", "einspänner"]
+  sk: ["viedenska kava", "kava so slahackou"]
+related: [cappuccino, hot-chocolate, algerian-coffee, irish-coffee]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a Viennese coffee, black coffee crowned with a tall swirl of whipped cream dusted with cocoa, in a clear glass cup with a handle on a saucer"
+  status: missing

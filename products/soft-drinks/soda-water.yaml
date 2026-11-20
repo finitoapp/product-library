@@ -1,0 +1,16 @@
+id: soda-water
+category: soft-drinks
+names:
+  cs: "Sodovka"
+  sk: "Sóda"
+  en: "Soda water"
+synonyms:
+  cs: ["soda", "sodovka", "sifon", "sifón", "sodovka z kohoutku"]
+  sk: ["soda", "sodovka", "sifon"]
+related: [sparkling-water, still-water, lemonade]
+vat:
+  CZ: 1200
+  SK: 1900
+image:
+  subject: "a tall clear glass of plain soda water with lively rising bubbles, no ice and no garnish"
+  status: missing

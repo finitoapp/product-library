@@ -1,5 +1,5 @@
 id: gin-tonic
-category: spirits
+category: cocktails
 names:
   cs: "Gin tonic"
   sk: "Gin tonic"
@@ -7,7 +7,7 @@ names:
 synonyms:
   cs: ["džin tonik", "gin a tonik", "g&t", "gintonic"]
   sk: ["gin tonik"]
-related: [tonic, spritz, olives]
+related: [tonic, gin, spritz, cuba-libre, olives]
 vat:
   CZ: 2100
   SK: 2300

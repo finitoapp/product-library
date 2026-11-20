@@ -5,8 +5,8 @@ names:
   sk: "Toast so šunkou a syrom"
   en: "Ham and cheese toast"
 synonyms:
-  cs: ["toast", "šunkový toast", "sýrový toast"]
-  sk: ["toast"]
+  cs: ["toast", "šunkový toast", "sýrový toast", "toust", "tousty"]
+  sk: ["toast", "toust"]
 related: [orange-juice, scrambled-eggs, cappuccino]
 vat:
   CZ: 1200

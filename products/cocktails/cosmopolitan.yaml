@@ -1,0 +1,16 @@
+id: cosmopolitan
+category: cocktails
+names:
+  cs: "Cosmopolitan"
+  sk: "Cosmopolitan"
+  en: "Cosmopolitan"
+synonyms:
+  cs: ["cosmo", "kosmopolitan", "kosmo", "cosmopolitn"]
+  sk: ["cosmo", "kozmopolitan"]
+related: [spritz, gin-tonic, mimosa, vodka]
+vat:
+  CZ: 2100
+  SK: 2300
+image:
+  subject: "a cosmopolitan, a pink-red cranberry cocktail in a stemmed martini glass with an orange peel twist"
+  status: missing
